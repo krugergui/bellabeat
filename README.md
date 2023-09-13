@@ -1,6 +1,6 @@
 # BellaBeat
 
-Is this study I analysed the public data of the FitBit trackers and suggested a feature improvement on automatic heart rate anomaly detection based on on the existing data.
+Is this study I analysed the public data of the FitBit trackers and suggested a feature improvement on automatic heart rate anomaly detection based on the existing data.
 
 The following tools were used:
 - Python
