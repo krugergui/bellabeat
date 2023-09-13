@@ -44,4 +44,5 @@ In these notebooks I go through:
 - Model analysis
 ![Residuals](images_readme/lr_residuals.png)
 
-For the conclusions please check the last notebook.
+For the conclusions please check the 3rd notebook:
+- https://www.kaggle.com/code/kriggs/bellabeat-case-study-3-3-ml-modelling
