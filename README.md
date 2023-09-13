@@ -21,3 +21,27 @@ This study consists of 3 notebooks for convenience, the links below are on Kaggl
 
 - Part 3 - ML Modelling  
     https://www.kaggle.com/code/kriggs/bellabeat-case-study-3-3-ml-modelling
+
+In these notebooks I go through:
+- Statistical visualization of the data
+![HR per User](images_readme/hr_per_user.png)
+
+- In depth look of the data
+![Better Look](images_readme/better_look_into_users.png)
+
+- Explanations
+![Jennifer HR through the day](images_readme/jennifers_hr.png)
+![jennifer's HR](images_readme/explain_hr.png)
+
+- Feature selection
+![Corr pairplot](images_readme/correlation_pairplot.png)
+![Corr Stats](images_readme/correlation_stats.png)
+
+- ML Modelling
+![Isolation Forest](images_readme/iso_model.png)
+![LR Model](images_readme/lr_model.png)
+
+- Model analysis
+![Residuals](images_readme/lr_residuals.png)
+
+For the conclusions please check the last notebook.
